@@ -1,0 +1,14 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Fabricio Coronel",
+        "correo": "fabricio@restaurante.com",
+        "clave": "1234"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "Cecilia Gonzales",
+        "correo": "cecilia@restaurante.com",
+        "clave": "admin"
+    }
+]
